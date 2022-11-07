@@ -1,16 +1,24 @@
-# flutter_dio_example
+# Flutter Network Call Example
 
-A new Flutter project.
+This is a simple example of how to make a network call in Flutter. It uses the [dio](https://pub.dev/packages/dio) package and the getx for state management.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  dio: ^4.0.6
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```dart
+import 'package:dio/dio.dart';
+import 'package:get/get.dart';
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![Screenshot]('screen_sample.gif')
