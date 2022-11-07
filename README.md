@@ -21,4 +21,4 @@ import 'package:get/get.dart';
 
 ## Screenshots
 
-![Screenshots]('screen_sample.gif')
+![Screenshots](screen_sample.gif)
