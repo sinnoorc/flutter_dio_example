@@ -21,4 +21,4 @@ import 'package:get/get.dart';
 
 ## Screenshots
 
-![Screenshot]('screen_sample.gif')
+![Screenshot]('https://github.com/sinnoorc/flutter_dio_example/blob/main/screen_sample.gif')
